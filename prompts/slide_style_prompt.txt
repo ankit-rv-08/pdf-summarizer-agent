@@ -1,0 +1,7 @@
+Reformat the following bullet points so they sound like headlines or slide titles. Use strong, brief phrasing.
+
+Example:
+- "The AI market is growing" → "AI Market Growth Accelerates"
+
+Bullet Points:
+[Paste bullet points here]
