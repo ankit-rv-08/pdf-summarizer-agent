@@ -1,0 +1,9 @@
+You are an expert summarizer. Convert the following text into 3–5 key bullet points.
+
+Make sure:
+- Each point is clear and concise.
+- Avoid unnecessary jargon.
+- Focus on core ideas and insights.
+
+Text:
+[Paste your content here]
